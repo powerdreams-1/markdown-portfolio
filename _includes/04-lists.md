@@ -1,2 +1,2 @@
-#<li> programming</li>
-#<li> developing</li>
+-<li> programming</li>
+-<li> developing</li>
